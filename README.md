@@ -18,7 +18,9 @@
 </div>
 
 ##
+## Conecte-se comigo
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvitorscosta/)
 <h3> 🚀 &nbsp; Skills </h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
