@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Gabriel+Costa;I'm+21+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Gabriel+Costa;I'm+22+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Seeking my first job in the field
 - 🔍 Currently seeking my first job in the field.
