@@ -8,7 +8,7 @@
 
 ### Education
 - 🎓 Currently pursuing a degree in Information Systems at UFU - Federal University of Uberlândia.
-- 🎓 Studying AWS through Santander DIO
+- 🎓 I'm working with CNNs and MobileNet for my thesis project.
 
 
 ##
