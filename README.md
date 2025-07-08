@@ -12,10 +12,20 @@
 
 
 ##
-<div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabscost&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscost&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
-</div>
+<img 
+  width="49%" 
+  height="195px" 
+  src="https://github-readme-stats.vercel.app/api?username=gabscost&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117&cache_seconds=60" 
+  alt="Gabriel github stats" 
+/> 
+
+<img 
+  width="41%" 
+  height="195px" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscost&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117&cache_seconds=60" 
+  alt="Gabriel github top languages" 
+/>
+
 
 ## 
 ## Conecte-se comigo
